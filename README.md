@@ -6,4 +6,5 @@ This error occurs when we send values to a few fields/elements of the sublist in
 
 ## Resolution:
 Add value of "FALSE" in "@replaceAll" attribute of the field AddressList/ItemList/InventoryList, as per below screenshot. 
+
 ![image](https://user-images.githubusercontent.com/12267939/177548220-d49bf19a-cbd7-4f91-81c0-db76063c5177.png)
