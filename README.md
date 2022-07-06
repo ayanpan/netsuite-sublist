@@ -1,4 +1,4 @@
-# NetSuite Sublist
+# NetSuite Sublist Update using Boomi
 
 ## Problem Statement:
 When we perform Create/Update/Upsert operation in a NetSuite object such as Invoice/SalesOrder, which has sublist fields like AddressList/ItemList/InventoryList, we may encounter an error like - "Adding new line to sublist item is not allowed".
